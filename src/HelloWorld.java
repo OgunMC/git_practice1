@@ -1,12 +1,8 @@
 public class HelloWorld {
 
-    public static void main(String[] args) {
-        String result = " ";
+   // Doing some work here ( you can type anything you want )
 
-        for (int i = 0; i <result.length() ; i++) {
-          result=("Merhaba");
 
-            System.out.println(result);
 
         }
 
@@ -14,5 +10,4 @@ public class HelloWorld {
 
 
 
-    }
-}
+
